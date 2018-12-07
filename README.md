@@ -1,3 +1,3 @@
 # login_ui_app
 
-Login UI Design in fluttere.
+Login UI Design in flutter.
